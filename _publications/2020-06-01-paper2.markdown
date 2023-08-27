@@ -1,0 +1,15 @@
+---
+layout: publication
+title: Requirements for Gravitational Collapse in Planetesimal Formation - The Impact of Scales Set by Kelvin-Helmholtz and Nonlinear Streaming Instability
+authors: Konstantin Gerbig, Ruth Murray-Clay, Hubert Klahr, and Hans Baehr
+year: 2020
+month: June
+journal: The Astrophysical Journal
+pdflink: https://ui.adsabs.harvard.edu/abs/2020ApJ...895...91G
+description:  # Add post description (optional)
+img:  # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Planetesimals, Protoplanetary Disks]
+---
+
+The formation of planetesimals is one of the most prominent problems in planet formation theory. Planetesimals are km-sized objects believed to be the precursers of planets. As coagulational growth of small dust-grains has been found too inefficient to explain the multitude of existing planets and planetary systems, other mechanisms have to be invoked. A popular idea is the idea that a cloud of smaller pebbles becomes gravitationally unstable, much like a giant molecular cloud is gravitational unstable prior to the birth of a star. The challenge is to concentrate particles to sufficiently high densities, such that gravitational collapse can trigger. Here, the interaction of particles with their gaseous environment is of crucial importance. In my research, I investigated the requirements for gravitational collapse to form planetesimals, in the presence of two drag instabilities. The first is the Kelvin-Helmholtz instability, which is driven by a vertical gradient in orbital velocities within the disk mid-plane. The second is the streaming instability, which sources the different in streaming velocities of gas and particles. Both instabilities have an ambiguous effect on collapse. While the lead to turbulent concentration, they also lead to turbulent diffusion which counteracts collapse, similar to how pressure counteracts self-gravity in the collapse of giant molecular cloud. We were able to analytically derive a criterion for gravitational collapse characterized by the local particle concentration, the pressure gradient, and the local Toomre-Q value. We tested our results numerically using the Pencil Code.

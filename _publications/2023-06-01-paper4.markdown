@@ -1,0 +1,15 @@
+---
+layout: publication
+title: Planetesimal Initial Mass Function from Diffusion-limited Collapse
+authors: Konstantin Gerbig and Rixin Li
+year: 2023
+month: June
+journal: The Astrophysical Journal
+pdflink: https://ui.adsabs.harvard.edu/abs/2023ApJ...949...81G
+description:  # Add post description (optional)
+img:  # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Planetesimals, Protoplanetary Disks]
+---
+
+Text

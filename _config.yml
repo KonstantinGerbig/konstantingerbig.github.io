@@ -8,19 +8,22 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Konstantin Gerbig # add your name
-# author-img: david-freeman.jpg # add your photo
-about-author:  # add description
-social-twitter: # add your Twitter handle
+author-img: Office_square.png # add your photo
+about-author: PhD candidate in Astrophysics  # add description
+social-twitter: konstiplanet # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: TBA # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-github:  KonstantinGerbig # add your Github handle
+social-linkedin: konstantin-gerbig-90160a235 # add your Linkedin handle
+social-email: konstantin.gerbig@yale.edu # add your Email address
+social-orcid: 0000-0002-4836-1310
+social-youtube: Itsnokstikon
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: kgerbig # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
+
 
 # Build Settings
 markdown: kramdown
@@ -29,7 +32,20 @@ plugins:
   - jekyll-paginate
   - jemoji
 
+# Pagination configuration for _posts directory
 paginate: 8
 paginate_path: "/page/:num"
+
+collections:
+  research:
+    output: true
+    permalink: /research/:path/
+  publications:
+    output: true
+    permalink: /publications/:path
+    sort_by: 'date'
+    sort_reverse: true
+
+
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

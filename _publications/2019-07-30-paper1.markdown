@@ -1,0 +1,34 @@
+---
+layout: publication
+title: Linking Planetesimal and Dust Content in Protoplanetary Disks via a Local Toy Model
+authors: Konstantin Gerbig, Christian T. Lenz, and Hubert Klahr
+year: 2019
+month: September
+journal: Astronomy and Astrophysics
+pdflink: https://ui.adsabs.harvard.edu/abs/2019A&A...629A.116G
+description:  # Add post description (optional)
+img:  # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Planetesimals, Protoplanetary Disks]
+---
+
+
+The formation of planetesimals shifts mass from small-sized grains to the much larger, unobservable planetesimals, as the supply of dusty material in the protoplanetary disk shrinks. 
+
+However, collisions between planetesimals, provided they are both frequent enough and sufficiently destructive, may replenish small-sized materials leading to a non-trivial evolution of how solid mass is distributed amongst different sizes throughout the protoplanetary disk's lifetime. In this project, we investigate this question using a toy model, which I coded in Python. 
+
+The simplifications performed in our model allow us to synthesize a large number of disks, which we then compare to observed populations of protoplanetary disks in e.g., the Ophiuchus or Lupus star forming regions. 
+
+Remarkably, our model may provide an explanation for the observation that the mass in mm-dust grains increases between Type I and Type II disks.
+
+
+
+![Flowchart]({{site.baseurl}}/assets/img/paper1_flowchart.PNG){: width="400"}
+
+
+>Hexagon shoreditch beard, man braid blue bottle green juice thundercats viral migas next level ugh. Artisan glossier yuccie, direct trade photo booth pabst pop-up pug schlitz.
+
+
+![I and My friends]({{site.baseurl}}/assets/img/paper1_plot.PNG)
+
+

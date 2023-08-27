@@ -1,0 +1,15 @@
+---
+layout: publication
+title: Filament Formation due to Diffusive Instabilities in Dusty Protoplanetary Disks
+authors: Konstantin Gerbig, Min-Kai Lin, and Marius Lehmann
+year: 2023
+month: August
+journal: Submitted to The Astrophysical Journal
+pdflink: #
+description:  # Add post description (optional)
+img:  # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Planetesimals, Protoplanetary Disks]
+---
+
+Text

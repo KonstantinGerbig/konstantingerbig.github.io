@@ -1,0 +1,15 @@
+---
+layout: publication
+title: The Prospects for Hurricane-like Vortices in Protoplanetary Disks
+authors: Konstantin Gerbig and Greg Laughlin
+year: 2022
+month: May
+journal: The Astrophysical Journal
+pdflink: https://ui.adsabs.harvard.edu/abs/2022ApJ...930...68G
+description:  # Add post description (optional)
+img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Planetesimals, Protoplanetary Disks]
+---
+
+In this project, I investigated the prospects of Hurricane-like vortices operating in protoplanetary disks. Hurricanes, or any tropical cyclone, can be thought of as heat engines, where the warm tropical ocean acts as a heat bath. Enthalpy transport from ocean to atmosphere in form of latent heat of water evaporation then drives vigorous convection in the eye wall, which in turn leads to strong winds. We argue, that a similar disequilibrium between icy dust-layer and undersaturated gas flow near a protoplanetary disk's iceline can drive vortices that would otherwise dissipate. In addition, the relative velocity between particle layer and undersaturated gas disk itself may lead to the formation of vortices. I supplemented our analytical considerations with numerical simulatins performed with Athena++.
