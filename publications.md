@@ -20,7 +20,7 @@ Here is a list of my latest publications, broadly sorted by research topic. Plea
 * Gerbig & Laughlin (2022), [ApJ 930, 68](https://iopscience.iop.org/article/10.3847/1538-4357/ac6500) 
 
 <span style="color:#800020">**Formation and Characterization of Planet-Hosting Binary Systems**</span>
-* Gerbig, Rice, Zanazzi, & Su (2023), submitted to ApJ 
+* Gerbig, Rice, Zanazzi, & Su (2023), in advanced preparation (manuscript available upon request) 
 * Rice, Gerbig, & Vanderburg (2023), submitted to ApJ 
 * Rice, Wang, Gerbig, et al. (2023), [AJ 165, 65](https://iopscience.iop.org/article/10.3847/1538-3881/aca88e)
 
