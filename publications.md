@@ -11,7 +11,7 @@ Here is a list of my latest publications, broadly sorted by research topic. Plea
 
     
 <span style="color:#800020">**Planetesimal Formation Theory**</span>
-* Gerbig, Lin, & Lehmann (2023), submitted to ApJ
+* Gerbig, Lin, & Lehmann (2023), in press, [Arxiv](https://arxiv.org/abs/2311.17996)
 * Gerbig & Li (2023), [ApJ 949, 81](https://iopscience.iop.org/article/10.3847/1538-4357/acca1a) 
 * Gerbig, Murray-Clay, Klahr, & Baehr (2020), [ApJ 895, 91](https://ui.adsabs.harvard.edu/abs/2020ApJ...895...91G/abstract)
 * Gerbig, Lenz, & Klahr (2019), [A&A 629, A116](Linking Planetesimal and Dust Content in Protoplanetary Disks via a Local Toy Model) 
