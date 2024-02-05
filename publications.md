@@ -11,17 +11,17 @@ Here is a list of my latest publications, broadly sorted by research topic. Plea
 
     
 <span style="color:#800020">**Planetesimal Formation Theory**</span>
-* Gerbig, Lin, & Lehmann (2023), in press, [Arxiv](https://arxiv.org/abs/2311.17996)
+* Gerbig, Lin, & Lehmann (2023), [ApJ 961, 183](https://iopscience.iop.org/article/10.3847/1538-4357/ad1114)
 * Gerbig & Li (2023), [ApJ 949, 81](https://iopscience.iop.org/article/10.3847/1538-4357/acca1a) 
 * Gerbig, Murray-Clay, Klahr, & Baehr (2020), [ApJ 895, 91](https://ui.adsabs.harvard.edu/abs/2020ApJ...895...91G/abstract)
-* Gerbig, Lenz, & Klahr (2019), [A&A 629, A116](Linking Planetesimal and Dust Content in Protoplanetary Disks via a Local Toy Model) 
+* Gerbig, Lenz, & Klahr (2019), [A&A 629, A116](https://www.aanda.org/articles/aa/full_html/2019/09/aa35278-19/aa35278-19.html) 
 
 <span style="color:#800020">**Latent Heat in Protoplanetary Disks**</span>
 * Gerbig & Laughlin (2022), [ApJ 930, 68](https://iopscience.iop.org/article/10.3847/1538-4357/ac6500) 
 
 <span style="color:#800020">**Formation and Characterization of Planet-Hosting Binary Systems**</span>
-* Gerbig, Rice, Zanazzi, & Su (2023), in advanced preparation (manuscript available upon request) 
-* Rice, Gerbig, & Vanderburg (2023), submitted to ApJ 
+* Gerbig, Rice, Zanazzi, et al.  (2024), in advanced preparation (manuscript available upon request) 
+* Rice, Gerbig, & Vanderburg (2023), in press at ApJ [Arxiv](https://ui.adsabs.harvard.edu/abs/2024arXiv240104173R/abstract)
 * Rice, Wang, Gerbig, et al. (2023), [AJ 165, 65](https://iopscience.iop.org/article/10.3847/1538-3881/aca88e)
 
 
