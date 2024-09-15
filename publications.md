@@ -9,20 +9,23 @@ Here is a list of my latest publications, broadly sorted by research topic. Plea
 [kg-ads]: https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22Gerbig%2C%20Konstantin%22&sort=date%20desc%2C%20bibcode%20desc
 
 
-    
 <span style="color:#800020">**Planetesimal Formation Theory**</span>
-* Gerbig, Lin, & Lehmann (2023), [ApJ 961, 183](https://iopscience.iop.org/article/10.3847/1538-4357/ad1114)
+* Gerbig, Lin, & Lehmann (2024), [ApJ 961, 183](https://iopscience.iop.org/article/10.3847/1538-4357/ad1114)
 * Gerbig & Li (2023), [ApJ 949, 81](https://iopscience.iop.org/article/10.3847/1538-4357/acca1a) 
 * Gerbig, Murray-Clay, Klahr, & Baehr (2020), [ApJ 895, 91](https://ui.adsabs.harvard.edu/abs/2020ApJ...895...91G/abstract)
 * Gerbig, Lenz, & Klahr (2019), [A&A 629, A116](https://www.aanda.org/articles/aa/full_html/2019/09/aa35278-19/aa35278-19.html) 
 
+<span style="color:#800020">**Formation and Characterization of Planet-Hosting Binary Systems**</span>
+* Gerbig, Rice, Zanazzi, Christian, Vanderburg  (2024), [ApJ 972, 161](https://iopscience.iop.org/article/10.3847/1538-4357/ad5f2b) 
+* Rice, Gerbig, & Vanderburg (2024), [AJ 167, 126](https://iopscience.iop.org/article/10.3847/1538-3881/ad1bed)
+* Rice, Wang, Gerbig, et al. (2023), [AJ 165, 65](https://iopscience.iop.org/article/10.3847/1538-3881/aca88e)
+
 <span style="color:#800020">**Latent Heat in Protoplanetary Disks**</span>
 * Gerbig & Laughlin (2022), [ApJ 930, 68](https://iopscience.iop.org/article/10.3847/1538-4357/ac6500) 
 
-<span style="color:#800020">**Formation and Characterization of Planet-Hosting Binary Systems**</span>
-* Gerbig, Rice, Zanazzi, et al.  (2024), in advanced preparation (manuscript available upon request) 
-* Rice, Gerbig, & Vanderburg (2023), in press at ApJ [Arxiv](https://ui.adsabs.harvard.edu/abs/2024arXiv240104173R/abstract)
-* Rice, Wang, Gerbig, et al. (2023), [AJ 165, 65](https://iopscience.iop.org/article/10.3847/1538-3881/aca88e)
+<span style="color:#800020">**White Papers**</span>
+* Levine, Gerbig, et al.  (2024), [BAAS 56, 1](https://baas.aas.org/pub/2024i004/release/1) 
+* Asali, Gerbig, et al.  (2022), [BAAS 54, 1](https://baas.aas.org/pub/2022i091/release/1) 
 
 
 
