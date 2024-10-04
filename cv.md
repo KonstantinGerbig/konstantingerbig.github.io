@@ -6,4 +6,4 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-<embed src="/assets/CV_new.pdf" type="application/pdf" width="100%" height="900px" />
+<embed src="/assets/KGerbig_CV_Oct2024.pdf" type="application/pdf" width="100%" height="900px" />
