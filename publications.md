@@ -10,13 +10,15 @@ Here is a list of my latest publications, broadly sorted by research topic. Plea
 
 
 <span style="color:#800020">**Planetesimal Formation Theory**</span>
+* Cui, Gerbig, et al. (2025), [ApJ 986, 86](https://iopscience.iop.org/article/10.3847/1538-4357/add146)
 * Gerbig, Lin, & Lehmann (2024), [ApJ 961, 183](https://iopscience.iop.org/article/10.3847/1538-4357/ad1114)
 * Gerbig & Li (2023), [ApJ 949, 81](https://iopscience.iop.org/article/10.3847/1538-4357/acca1a) 
 * Gerbig, Murray-Clay, Klahr, & Baehr (2020), [ApJ 895, 91](https://ui.adsabs.harvard.edu/abs/2020ApJ...895...91G/abstract)
 * Gerbig, Lenz, & Klahr (2019), [A&A 629, A116](https://www.aanda.org/articles/aa/full_html/2019/09/aa35278-19/aa35278-19.html) 
 
 <span style="color:#800020">**Formation and Characterization of Planet-Hosting Binary Systems**</span>
-* Gerbig, Rice, Zanazzi, Christian, Vanderburg  (2024), [ApJ 972, 161](https://iopscience.iop.org/article/10.3847/1538-4357/ad5f2b) 
+* Hand, Gerbig, & Rice (2025), [ApJL 985, 1](https://iopscience.iop.org/article/10.3847/2041-8213/adce04)
+* Gerbig, Rice, Zanazzi, Christian, & Vanderburg  (2024), [ApJ 972, 161](https://iopscience.iop.org/article/10.3847/1538-4357/ad5f2b) 
 * Rice, Gerbig, & Vanderburg (2024), [AJ 167, 126](https://iopscience.iop.org/article/10.3847/1538-3881/ad1bed)
 * Rice, Wang, Gerbig, et al. (2023), [AJ 165, 65](https://iopscience.iop.org/article/10.3847/1538-3881/aca88e)
 
