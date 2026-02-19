@@ -10,6 +10,7 @@ Here is a list of my latest publications, broadly sorted by research topic. Plea
 
 
 <span style="color:#800020">**Planetesimal Formation Theory**</span>
+* Gerbig & Lin (2026), [in press at ApJ, ArXiv preprint](https://arxiv.org/abs/2602.16043)
 * Cui, Gerbig, et al. (2025), [ApJ 986, 86](https://iopscience.iop.org/article/10.3847/1538-4357/add146)
 * Gerbig, Lin, & Lehmann (2024), [ApJ 961, 183](https://iopscience.iop.org/article/10.3847/1538-4357/ad1114)
 * Gerbig & Li (2023), [ApJ 949, 81](https://iopscience.iop.org/article/10.3847/1538-4357/acca1a) 
