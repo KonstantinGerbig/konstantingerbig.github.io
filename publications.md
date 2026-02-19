@@ -18,7 +18,7 @@ Here is a list of my latest publications, broadly sorted by research topic. Plea
 * Gerbig, Lenz, & Klahr (2019), [A&A 629, A116](https://www.aanda.org/articles/aa/full_html/2019/09/aa35278-19/aa35278-19.html) 
 
 <span style="color:#800020">**Formation and Characterization of Planet-Hosting Binary Systems**</span>
-* Trierweiler, Gerbig, & Rice (2025), [Accepted to ApJ](https://arxiv.org/abs/2512.02135)
+* Trierweiler, Gerbig, & Rice (2025), [ApJ 997, 169](https://iopscience.iop.org/article/10.3847/1538-4357/ae274e)
 * Hand, Gerbig, & Rice (2025), [ApJL 985, 1](https://iopscience.iop.org/article/10.3847/2041-8213/adce04)
 * Gerbig, Rice, Zanazzi, Christian, & Vanderburg  (2024), [ApJ 972, 161](https://iopscience.iop.org/article/10.3847/1538-4357/ad5f2b) 
 * Rice, Gerbig, & Vanderburg (2024), [AJ 167, 126](https://iopscience.iop.org/article/10.3847/1538-3881/ad1bed)
